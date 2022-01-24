@@ -1,0 +1,25 @@
+,Time,Temp,Weather,Wind,Humidity,Barometer
+0,"00:50Tue, 1 Dec",5 °C,Clear.,17 km/h,81%,1023 mbar
+1,01:50,5 °C,Clear.,17 km/h,76%,1023 mbar
+2,02:50,4 °C,Clear.,13 km/h,81%,1023 mbar
+3,03:50,4 °C,Clear.,13 km/h,81%,1024 mbar
+4,04:50,4 °C,Clear.,13 km/h,81%,1024 mbar
+5,05:50,3 °C,Clear.,11 km/h,87%,1024 mbar
+6,06:50,2 °C,Clear.,7 km/h,93%,1025 mbar
+7,07:50,2 °C,Passing clouds.,9 km/h,93%,1025 mbar
+8,08:50,3 °C,Sunny.,11 km/h,87%,1026 mbar
+9,09:50,5 °C,Sunny.,15 km/h,81%,1026 mbar
+10,10:50,6 °C,Scattered clouds.,19 km/h,81%,1026 mbar
+11,11:50,7 °C,Passing clouds.,17 km/h,76%,1026 mbar
+12,12:50,7 °C,Sunny.,20 km/h,76%,1026 mbar
+13,13:50,8 °C,Passing clouds.,19 km/h,71%,1025 mbar
+14,14:50,7 °C,Scattered clouds.,15 km/h,76%,1025 mbar
+15,15:50,6 °C,Passing clouds.,13 km/h,76%,1026 mbar
+16,16:50,4 °C,Passing clouds.,6 km/h,87%,1026 mbar
+17,18:50,3 °C,Passing clouds.,9 km/h,87%,1026 mbar
+18,19:50,2 °C,Passing clouds.,7 km/h,93%,1026 mbar
+19,20:50,3 °C,Clear.,4 km/h,93%,1026 mbar
+20,21:50,3 °C,Partly cloudy.,7 km/h,87%,1026 mbar
+21,22:50,2 °C,Passing clouds.,7 km/h,87%,1025 mbar
+22,23:50,1 °C,Passing clouds.,7 km/h,100%,1025 mbar
+23,"Weather by CustomWeather, © 2022","Weather by CustomWeather, © 2022","Weather by CustomWeather, © 2022","Weather by CustomWeather, © 2022","Weather by CustomWeather, © 2022","Weather by CustomWeather, © 2022"
