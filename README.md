@@ -18,4 +18,4 @@ I got two different types of data - Actually they have different date and hours 
 <img src="/Pictures/RNN_result.png" width="1000">
 
 - Result of LSTM:
-<img src="/Pictures/LSTM_result.png" width="500">
+<img src="/Pictures/LSTM_result.png" width="200">
