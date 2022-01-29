@@ -10,7 +10,7 @@ Analyse features (process_data) :
 - Temp, Barometer and Humidity changes in 7 years: 
 <img src="/Pictures/SevenYear.png" width="1200">
 
-Test some ML models, RNN and LSTM models on dataset that you can see some their result here.
+Test some ML models, RNN and LSTM models on dataset that you can see some results here.
 - Result of RNN:
 <img src="/Pictures/RNN_result.png" width="500">
 
