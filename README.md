@@ -13,7 +13,7 @@ Analyse features (process_data) :
 
 Test some ML models, RNN and LSTM models on dataset that you can see some results here.
 - Result of RNN:
-<img src="/Pictures/RNN_result.png" width="500">
+<img src="/Pictures/RNN_result.png" width="700">
 
 - Result of LSTM:
 <img src="/Pictures/LSTM_result.png" width="250">
