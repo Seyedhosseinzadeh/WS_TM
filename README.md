@@ -1,8 +1,9 @@
 # WS_TM
 Scraping /www.timeanddate.com web with bs4 tool in python for London weather of 7 years.
 
-I got two different types of data:
+I got two different types of data - Actually they have different date and hours split:
 you can find them in "raw data folder".
+
 -From table:
 ![data1](/Pictures/Table.png)
 
