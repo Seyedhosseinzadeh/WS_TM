@@ -1,5 +1,5 @@
 # Weather web scraping - Time series Model
-Scraping /www.timeanddate.com web with bs4 tool in python for London weather of 7 years.
+Scraping www.timeanddate.com web with bs4 tool in python for London weather of 7 years.
 
 I got two different types of data - Actually they have different date and hours split:
 
