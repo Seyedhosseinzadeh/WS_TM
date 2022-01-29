@@ -4,7 +4,7 @@ Scraping /www.timeanddate.com web with bs4 tool in python for London weather of 
 I got two different types of data - Actually they have different date and hours split:
 you can find them in "raw data folder".
 
--Data from script:
+- Data from script:
 ![data2](/Pictures/Script.png)
 
 - cleaned the data with separate months and days and some extra strings like wind units along with their numbers (dataset folder)
