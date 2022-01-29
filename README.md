@@ -5,20 +5,20 @@ I got two different types of data - Actually they have different date and hours 
 you can find them in "raw data folder".
 
 - Data from script:
-<img src="/Pictures/Script.png" width="70">
+<img src="/Pictures/Script.png" width="170">
 
 - cleaned the data with separate months and days and some extra strings like wind units along with their numbers (dataset folder)
 - Analyse features :
  
 - For 7 years
-<img src="/Pictures/SevenYear.png" width="70">
+<img src="/Pictures/SevenYear.png" width="170">
 - For one year
-<img src="/Pictures/OneYear.png" width="70">
+<img src="/Pictures/OneYear.png" width="170">
 
 - Test some ML models, RNN and LSTM models on dataset.
 - 
 - Result of RNN:
-<img src="/Pictures/RNN_result.png" width="70">
+<img src="/Pictures/RNN_result.png" width="170">
 
 - Result of LSTM:
-<img src="/Pictures/LSTM_result.png" width="70">
+<img src="/Pictures/LSTM_result.png" width="170">
