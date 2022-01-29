@@ -5,7 +5,7 @@ I got two different types of data - Actually they have different date and hours 
 you can find them in "raw data folder".
 
 - Data from script:
-![data2](/Pictures/Script.png)
+<img src="/Pictures/Script.png" width="20">
 
 - cleaned the data with separate months and days and some extra strings like wind units along with their numbers (dataset folder)
 - Analyse features :
